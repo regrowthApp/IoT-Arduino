@@ -23,7 +23,7 @@ char currentPage;
 
 // string/id variables
 const int maxStrLen = 10;
-const String AnimalNames[4] = {"Chicken","Sheep","Goat","Cow"};
+const String AnimalNames[4] = {"Chicken","Sheep","Goat","Pig"};
 int animalID, humidity, currentAnimalType;
 double animalWeight, temperature;
 char strInput[maxStrLen] = {'\0'};
@@ -404,7 +404,7 @@ void DrawPage_1()
   myGLCD.drawRoundRect (170, 140, 300, 180);
   myGLCD.setFont(BigFont);
   myGLCD.setBackColor(16, 167, 103);
-  myGLCD.print("Cow", 210, 152);
+  myGLCD.print("Pig", 210, 152);
 
 
   // Button - Back
