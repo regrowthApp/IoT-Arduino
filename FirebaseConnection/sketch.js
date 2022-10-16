@@ -125,7 +125,7 @@ function gotData() {
   //var meas_time = currentdate.getHours();
   //console.log(meas_date);
   
-  var user_directory = "Kamal_User"; /// CHANGE THIS TO CERTAIN USER
+  var user_directory = "users/regrowth";//
   
   var weather_s = user_directory + "/Weather/" + AnimalType +"/" + meas_date;
   if (currentdate.getHours() <= 13) // Morning: 00->13, Evening: 14->23
