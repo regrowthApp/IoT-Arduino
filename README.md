@@ -46,4 +46,5 @@ conditions are met, enabling a smarter farm for all.
 
 ## Table of Contents
 
-![tst](1.jpg "tst")
+
+<img src="1.jpg" alt="1" width="200"/>
