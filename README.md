@@ -46,9 +46,4 @@ conditions are met, enabling a smarter farm for all.
 
 ## Table of Contents
 
-1. [Simulation Guide](docs/Simulation_Guide.md)
-- Includes hardware libraries, activiaion instructions, unit tests.
-2. [Application Guide & Structure](docs/Application_Guide.md)
-- Aimed for application developers, includes important information about the android app.
-3. [User's Guide](docs/User_Guide.md)
-- Aimed for users (farmers), explains how to use the app itself.
+![tst](1.jpg "tst")
